@@ -26,8 +26,8 @@ function liri(command, search) {
 // spotify api
 
 var spotify = new Spotify  ({
-    id: '17f24057c28240aea462d2c88b345e62',
-    secret: '7d03c3c05af34e76b26804b54fcbb619'
+    id: 'SECRET_ID',
+    secret: 'SECRET_KEY'
 });
 
 function getAlbum(artist) {
