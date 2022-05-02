@@ -1,0 +1,5 @@
+install node-spotify-api and request node packages 
+
+npm install node-spotify-api
+
+npm install request
