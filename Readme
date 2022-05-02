@@ -6,4 +6,4 @@ npm install request
 
 Then Sign up in 'https://developer.spotify.com/documentation/web-api/' and input Client ID into SECRET_ID, Client Secret into SECRET_KEY.
 
-After all of them tou can search songs and movies in your terminal.
+After all of them you can search songs and movies in your terminal.
